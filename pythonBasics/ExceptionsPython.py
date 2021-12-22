@@ -1,11 +1,10 @@
 
-
 ItemsInCart = 0
-#2 items will be added to the cart
+# 2 items will be added to the cart
 
 
-'''if ItemsInCart != 2:
-    raise Exception("Products Cart count not matching")'''
+if ItemsInCart == 2:
+    raise Exception("Products Cart count not matching")
 
 if ItemsInCart != 2:
     pass
@@ -25,7 +24,7 @@ try:
         reader.read()
 
 except Exception as e:
-        print(e)
+    print(e)
 
 finally:
     print("Success")
