@@ -1,3 +1,5 @@
+import time
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -16,3 +18,9 @@ for checkbox in checkboxes:
 radiobuttons = driver.find_elements(By.NAME, "radioButton")
 radiobuttons[1].click()
 assert radiobuttons[1].is_selected()
+
+inputField = driver.find_element(By.ID, "displayed-text")
+assert inputField.is_displayed()
+
+driver.find_element(By.ID, "hide-textbox").click()
+assert not inputField.is_displayed()
