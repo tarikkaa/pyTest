@@ -1,0 +1,26 @@
+2022-03-18 10:45:04,906 :INFO : test_editProfile :Rahul
+2022-03-18 10:45:04,907 :INFO : test_editProfile :academy.com
+2022-03-18 10:45:04,916 :INFO : pyTest.test_logging :Information statement
+2022-03-18 10:45:04,916 :WARNING : pyTest.test_logging :Something is in warning mode
+2022-03-18 10:45:04,916 :ERROR : pyTest.test_logging :A major error has happened
+2022-03-18 10:45:04,916 :CRITICAL : pyTest.test_logging :Critical issue
+2022-03-18 10:45:25,279 :INFO : test_editProfile :Rahul
+2022-03-18 10:45:25,279 :INFO : test_editProfile :academy.com
+2022-03-18 10:45:25,289 :INFO : pyTest.test_logging :Information statement
+2022-03-18 10:45:25,289 :WARNING : pyTest.test_logging :Something is in warning mode
+2022-03-18 10:45:25,289 :ERROR : pyTest.test_logging :A major error has happened
+2022-03-18 10:45:25,290 :CRITICAL : pyTest.test_logging :Critical issue
+2022-03-18 10:48:09,980 :INFO : test_editProfile :Rahul
+2022-03-18 10:48:09,980 :INFO : test_editProfile :academy.com
+2022-03-18 10:50:50,155 :INFO : test_editProfile :Rahul
+2022-03-18 10:50:50,155 :INFO : test_editProfile :academy.com
+2022-03-18 10:50:50,162 :INFO : pyTest.test_logging :Information statement
+2022-03-18 10:50:50,163 :WARNING : pyTest.test_logging :Something is in warning mode
+2022-03-18 10:50:50,163 :ERROR : pyTest.test_logging :A major error has happened
+2022-03-18 10:50:50,163 :CRITICAL : pyTest.test_logging :Critical issue
+2022-03-18 10:52:01,160 :INFO : test_editProfile :Rahul
+2022-03-18 10:52:01,160 :INFO : test_editProfile :academy.com
+2022-03-18 10:52:01,169 :INFO : pyTest.test_logging :Information statement
+2022-03-18 10:52:01,169 :WARNING : pyTest.test_logging :Something is in warning mode
+2022-03-18 10:52:01,169 :ERROR : pyTest.test_logging :A major error has happened
+2022-03-18 10:52:01,169 :CRITICAL : pyTest.test_logging :Critical issue
